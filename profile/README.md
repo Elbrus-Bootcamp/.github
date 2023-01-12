@@ -1,6 +1,6 @@
 # Добро пожаловать в Elbrus Bootcamp!
 
-![Photo](https://i.ibb.co/sqdhZGc/0315-print.jpg)
+![Photo](https://i.ibb.co/JnbV8v5/elbrus-pic.jpg)
 
 Мы [Elbrus Bootcamp](https://elbrusboot.camp/) — буткемп, который появился в 2018 году благодаря [Георгию Бабаяну](https://github.com/georgebabayan), который в 2016 году прошел Dev Bootcamp в Сан-Франциско, один из самых первых буткемпов в Америке. После прохождения ему захотелось реализовать свой буткемп, так как этот формат обучения его сильно вдохновил.
 
