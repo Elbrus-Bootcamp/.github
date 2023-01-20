@@ -13,7 +13,7 @@
 ## Карьера
 Эксперты карьерного центра `Elbrus` помогут составить продающее резюме, прокачать soft-скиллы и научиться проходить собеседования, чтобы получить оффер мечты!
 
-Наши выпускники работают в таких  крупных IT-компаниях, как: [Ozon](https://www.ozon.ru/), [Финам](https://www.finam.ru/), [VK](https://vk.com/), [ВТБ](https://www.vtb.ru/), [АльфаБанк](https://alfabank.ru/), [Wildberries](https://www.wildberries.ru/) и другие.
+Наши выпускники работают в таких  крупных IT-компаниях, как: [EPAM](https://www.epam.com/), [Сбер](https://sber.ru/), [OneTwoTrip](https://www.onetwotrip.com/), [Ali Express](https://aliexpress.ru/), [Яндекс](https://ya.ru/) и другие.
 
 93% студентов находят работу за 3 месяца, [по результатам иследования ВШЭ](https://ioe.hse.ru/mirror/pubs/share/533083120.pdf).
 
